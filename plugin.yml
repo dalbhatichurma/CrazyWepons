@@ -1,0 +1,12 @@
+name: CrazyWeapons
+version: 1.0.0
+main: com.crazyweapons.CrazyWeapons
+api-version: '1.21'
+author: YourName
+description: A plugin with crazy custom weapons
+
+commands:
+  crazyweapons:
+    description: Get a crazy weapon
+    usage: /crazyweapons <weapon>
+    aliases: [cw]
