@@ -2,7 +2,7 @@ name: CrazyWeapons
 version: 1.0.0
 main: com.crazyweapons.CrazyWeapons
 api-version: '1.21'
-author: YourName
+author: MathTeacher
 description: A plugin with crazy custom weapons
 
 commands:
